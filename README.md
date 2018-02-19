@@ -6,12 +6,15 @@ and the script will download it in the images folder under the name chosen
 urllib
 
 
-##Installation  
-Unzip the files wherever you want on your local machine 
-Open the command prompt
-Navigate to the Folder location
-type this command:
+## Installation  
+1.Unzip the files wherever you want on your local machine 
+
+2.Open the command prompt
+
+3.Navigate to the Folder location
+
+4.type this command:
 python download_image.py
 
-##Copyrights
+## Copyrights
 © Mostafa Ahmed
